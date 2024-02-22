@@ -1,0 +1,15 @@
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/bin/Debug/net8.0/ParallelProgramming
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/bin/Debug/net8.0/ParallelProgramming.deps.json
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/bin/Debug/net8.0/ParallelProgramming.runtimeconfig.json
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/bin/Debug/net8.0/ParallelProgramming.dll
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/bin/Debug/net8.0/ParallelProgramming.pdb
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.GeneratedMSBuildEditorConfig.editorconfig
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.AssemblyInfoInputs.cache
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.AssemblyInfo.cs
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.csproj.CoreCompileInputs.cache
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.sourcelink.json
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.dll
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/refint/ParallelProgramming.dll
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.pdb
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ParallelProgramming.genruntimeconfig.cache
+/home/rossado/Documents/Dev/CSharp/Parallel-Programming-with-C-and-.NET/ParallelProgramming/ParallelProgramming/obj/Debug/net8.0/ref/ParallelProgramming.dll
